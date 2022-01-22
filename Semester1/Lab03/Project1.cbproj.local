@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.966,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\MainWindow.h=C:\Users\mchuv\Documents\ProgEng\Lab03\MainWindow.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.430,C:\Users\mchuv\Documents\ProgEng\Lab03\Unit2.h=C:\Users\mchuv\Documents\ProgEng\Lab03\SelectTask.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.876,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\ABOUT.dfm=C:\Users\mchuv\Documents\ProgEng\Lab03\ABOUT.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.966,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\MainWindow.cpp=C:\Users\mchuv\Documents\ProgEng\Lab03\MainWindow.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.274,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\MainWindow.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.966,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\MainWindow.dfm=C:\Users\mchuv\Documents\ProgEng\Lab03\MainWindow.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.104,C:\Users\mchuv\Documents\ProgEng\Lab03\Unit3.h=C:\Users\mchuv\Documents\ProgEng\Lab03\Proc.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.430,C:\Users\mchuv\Documents\ProgEng\Lab03\Unit2.cpp=C:\Users\mchuv\Documents\ProgEng\Lab03\SelectTask.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.563,=C:\Users\mchuv\Documents\ProgEng\Lab03\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.876,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\ABOUT.h=C:\Users\mchuv\Documents\ProgEng\Lab03\ABOUT.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.104,C:\Users\mchuv\Documents\ProgEng\Lab03\Unit3.dfm=C:\Users\mchuv\Documents\ProgEng\Lab03\Proc.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.876,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\ABOUT.cpp=C:\Users\mchuv\Documents\ProgEng\Lab03\ABOUT.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.218,=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\ABOUT.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.860,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\mchuv\Documents\ProgEng\Lab03\Lab03_MDI.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.308,=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.274,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\MainWindow.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.829,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\mchuv\Documents\ProgEng\Lab03\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.553,=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.104,C:\Users\mchuv\Documents\ProgEng\Lab03\Unit3.cpp=C:\Users\mchuv\Documents\ProgEng\Lab03\Proc.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.560,=C:\Users\mchuv\Documents\ProgEng\Lab03\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.274,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\MainWindow.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.430,C:\Users\mchuv\Documents\ProgEng\Lab03\Unit2.dfm=C:\Users\mchuv\Documents\ProgEng\Lab03\SelectTask.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

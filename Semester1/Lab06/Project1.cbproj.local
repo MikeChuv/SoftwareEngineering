@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.399,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\mchuv\Documents\ProgEng\Lab06\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.786,=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.399,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\mchuv\Documents\ProgEng\Lab06\Unit1.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.061,=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.825,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\mchuv\Documents\ProgEng\Lab06\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.399,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\mchuv\Documents\ProgEng\Lab06\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.739,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\mchuv\Documents\ProgEng\Lab06\Project1PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>

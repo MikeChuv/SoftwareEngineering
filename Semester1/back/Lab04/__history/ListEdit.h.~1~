@@ -1,0 +1,22 @@
+//---------------------------------------------------------------------------
+
+#ifndef ListEditH
+#define ListEditH
+//---------------------------------------------------------------------------
+#include <System.Classes.hpp>
+#include <Vcl.Controls.hpp>
+#include <Vcl.StdCtrls.hpp>
+#include <Vcl.Forms.hpp>
+//---------------------------------------------------------------------------
+class TFormListEdit : public TForm
+{
+__published:	// IDE-managed Components
+	void __fastcall FormClose(TObject *Sender, TCloseAction &Action);
+private:	// User declarations
+public:		// User declarations
+	__fastcall TFormListEdit(TComponent* Owner);
+};
+//---------------------------------------------------------------------------
+extern PACKAGE TFormListEdit *FormListEdit;
+//---------------------------------------------------------------------------
+#endif

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.147,=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.523,C:\Users\mchuv\Documents\ProgEng\Lab04\Task.cpp=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Task.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.881,C:\Users\mchuv\Documents\ProgEng\Lab04\ABOUT.dfm=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\ABOUT.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.871,C:\Users\mchuv\Documents\ProgEng\Lab04\ABOUT.dfm=C:\Users\mchuv\Documents\ProgEng\Lab04\Lab04.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.174,C:\Users\mchuv\Documents\ProgEng\Lab04\Project1.cbproj=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.413,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\FirstListEdit.dfm=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.164,C:\Users\mchuv\Documents\ProgEng\Lab04\ListEdit.dfm=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\ListEdit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.018,C:\Users\mchuv\Documents\ProgEng\Lab04\MainWindow.h=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\MainWindow.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.180,=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.220,=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.177,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\ListEdit.dfm=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.174,C:\Users\mchuv\Documents\ProgEng\Lab04\Lab04.h=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.661,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\MainWindow.dfm=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.413,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\FirstListEdit.cpp=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.018,C:\Users\mchuv\Documents\ProgEng\Lab04\MainWindow.cpp=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\MainWindow.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.406,C:\Users\mchuv\Documents\ProgEng\Lab04\FirstListEdit.dfm=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\FirstListEdit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.164,C:\Users\mchuv\Documents\ProgEng\Lab04\ListEdit.cpp=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\ListEdit.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.155,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Task.h=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.661,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\MainWindow.h=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.744,C:\Users\mchuv\Documents\ProgEng\Lab04\Lab04.h=C:\Users\mchuv\Documents\ProgEng\Lab04\ABOUT.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.274,C:\Users\mchuv\Documents\ProgEng\Lab04\Lab04.h=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.406,C:\Users\mchuv\Documents\ProgEng\Lab04\FirstListEdit.cpp=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\FirstListEdit.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.661,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\MainWindow.cpp=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.018,C:\Users\mchuv\Documents\ProgEng\Lab04\MainWindow.dfm=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\MainWindow.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.177,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\ListEdit.cpp=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.523,C:\Users\mchuv\Documents\ProgEng\Lab04\Task.dfm=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Task.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.744,C:\Users\mchuv\Documents\ProgEng\Lab04\Lab04.cpp=C:\Users\mchuv\Documents\ProgEng\Lab04\ABOUT.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.881,C:\Users\mchuv\Documents\ProgEng\Lab04\ABOUT.cpp=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\ABOUT.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.871,C:\Users\mchuv\Documents\ProgEng\Lab04\ABOUT.cpp=C:\Users\mchuv\Documents\ProgEng\Lab04\Lab04.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.413,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\FirstListEdit.h=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.155,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Task.cpp=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.744,C:\Users\mchuv\Documents\ProgEng\Lab04\Lab04.dfm=C:\Users\mchuv\Documents\ProgEng\Lab04\ABOUT.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.398,=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.645,=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\ABOUT.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.523,C:\Users\mchuv\Documents\ProgEng\Lab04\Task.h=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Task.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.871,C:\Users\mchuv\Documents\ProgEng\Lab04\ABOUT.h=C:\Users\mchuv\Documents\ProgEng\Lab04\Lab04.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.881,C:\Users\mchuv\Documents\ProgEng\Lab04\ABOUT.h=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\ABOUT.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.155,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Task.dfm=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.406,C:\Users\mchuv\Documents\ProgEng\Lab04\FirstListEdit.h=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\FirstListEdit.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.177,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\ListEdit.h=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.047,=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.164,C:\Users\mchuv\Documents\ProgEng\Lab04\ListEdit.h=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\ListEdit.h</Transaction>
+  </Transactions>
+</BorlandProject>

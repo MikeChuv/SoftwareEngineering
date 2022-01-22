@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021.03.30 17:56:35.047,=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021.03.30 17:56:35.147,=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021.03.30 18:00:51.661,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\MainWindow.h=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2021.03.30 18:00:51.661,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\MainWindow.cpp=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021.03.30 18:00:51.661,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\MainWindow.dfm=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021.03.30 18:02:04.645,=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\ABOUT.cpp</Transaction>
+    <Transaction>2021.03.30 18:08:06.398,=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2021.03.30 18:09:47.413,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\FirstListEdit.cpp=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2021.03.30 18:09:47.413,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\FirstListEdit.dfm=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2021.03.30 18:09:47.413,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\FirstListEdit.h=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2021.03.30 18:18:01.180,=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021.03.30 18:18:15.177,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\ListEdit.h=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2021.03.30 18:18:15.177,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\ListEdit.dfm=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021.03.30 18:18:15.177,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\ListEdit.cpp=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021.03.30 18:19:21.220,=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021.03.30 18:19:33.155,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Task.dfm=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021.03.30 18:19:33.155,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Task.h=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2021.03.30 18:19:33.155,C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Task.cpp=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021.03.30 19:23:32.406,C:\Users\mchuv\Documents\ProgEng\Lab04\FirstListEdit.h=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\FirstListEdit.h</Transaction>
+    <Transaction>2021.03.30 19:23:32.406,C:\Users\mchuv\Documents\ProgEng\Lab04\FirstListEdit.dfm=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\FirstListEdit.dfm</Transaction>
+    <Transaction>2021.03.30 19:23:32.406,C:\Users\mchuv\Documents\ProgEng\Lab04\FirstListEdit.cpp=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\FirstListEdit.cpp</Transaction>
+    <Transaction>2021.03.30 19:23:34.164,C:\Users\mchuv\Documents\ProgEng\Lab04\ListEdit.dfm=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\ListEdit.dfm</Transaction>
+    <Transaction>2021.03.30 19:23:34.164,C:\Users\mchuv\Documents\ProgEng\Lab04\ListEdit.h=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\ListEdit.h</Transaction>
+    <Transaction>2021.03.30 19:23:34.164,C:\Users\mchuv\Documents\ProgEng\Lab04\ListEdit.cpp=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\ListEdit.cpp</Transaction>
+    <Transaction>2021.03.30 19:23:36.018,C:\Users\mchuv\Documents\ProgEng\Lab04\MainWindow.cpp=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\MainWindow.cpp</Transaction>
+    <Transaction>2021.03.30 19:23:36.018,C:\Users\mchuv\Documents\ProgEng\Lab04\MainWindow.dfm=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\MainWindow.dfm</Transaction>
+    <Transaction>2021.03.30 19:23:36.018,C:\Users\mchuv\Documents\ProgEng\Lab04\MainWindow.h=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\MainWindow.h</Transaction>
+    <Transaction>2021.03.30 19:23:37.523,C:\Users\mchuv\Documents\ProgEng\Lab04\Task.h=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Task.h</Transaction>
+    <Transaction>2021.03.30 19:23:37.523,C:\Users\mchuv\Documents\ProgEng\Lab04\Task.cpp=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Task.cpp</Transaction>
+    <Transaction>2021.03.30 19:23:37.523,C:\Users\mchuv\Documents\ProgEng\Lab04\Task.dfm=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Task.dfm</Transaction>
+    <Transaction>2021.03.30 19:23:38.881,C:\Users\mchuv\Documents\ProgEng\Lab04\ABOUT.h=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\ABOUT.h</Transaction>
+    <Transaction>2021.03.30 19:23:38.881,C:\Users\mchuv\Documents\ProgEng\Lab04\ABOUT.cpp=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\ABOUT.cpp</Transaction>
+    <Transaction>2021.03.30 19:23:38.881,C:\Users\mchuv\Documents\ProgEng\Lab04\ABOUT.dfm=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\ABOUT.dfm</Transaction>
+    <Transaction>2021.03.30 19:23:59.174,C:\Users\mchuv\Documents\ProgEng\Lab04\Lab04.h=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021.03.30 19:24:28.174,C:\Users\mchuv\Documents\ProgEng\Lab04\Project1.cbproj=C:\Users\mchuv\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2021.03.30 19:25:41.744,C:\Users\mchuv\Documents\ProgEng\Lab04\Lab04.cpp=C:\Users\mchuv\Documents\ProgEng\Lab04\ABOUT.cpp</Transaction>
+    <Transaction>2021.03.30 19:25:41.744,C:\Users\mchuv\Documents\ProgEng\Lab04\Lab04.h=C:\Users\mchuv\Documents\ProgEng\Lab04\ABOUT.h</Transaction>
+    <Transaction>2021.03.30 19:25:41.744,C:\Users\mchuv\Documents\ProgEng\Lab04\Lab04.dfm=C:\Users\mchuv\Documents\ProgEng\Lab04\ABOUT.dfm</Transaction>
+    <Transaction>2021.03.30 19:26:04.871,C:\Users\mchuv\Documents\ProgEng\Lab04\ABOUT.h=C:\Users\mchuv\Documents\ProgEng\Lab04\Lab04.h</Transaction>
+    <Transaction>2021.03.30 19:26:04.871,C:\Users\mchuv\Documents\ProgEng\Lab04\ABOUT.dfm=C:\Users\mchuv\Documents\ProgEng\Lab04\Lab04.dfm</Transaction>
+    <Transaction>2021.03.30 19:26:04.871,C:\Users\mchuv\Documents\ProgEng\Lab04\ABOUT.cpp=C:\Users\mchuv\Documents\ProgEng\Lab04\Lab04.cpp</Transaction>
+    <Transaction>2021.03.30 19:34:23.274,C:\Users\mchuv\Documents\ProgEng\Lab04\Lab04.h=</Transaction>
+  </Transactions>
+</BorlandProject>

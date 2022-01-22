@@ -1,0 +1,21 @@
+//---------------------------------------------------------------------------
+
+#include <vcl.h>
+#pragma hdrstop
+
+#include "ListEdit.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+#pragma resource "*.dfm"
+TFormListEdit *FormListEdit;
+//---------------------------------------------------------------------------
+__fastcall TFormListEdit::TFormListEdit(TComponent* Owner)
+	: TForm(Owner)
+{
+}
+//---------------------------------------------------------------------------
+void __fastcall TFormListEdit::FormClose(TObject *Sender, TCloseAction &Action)
+{
+	Action = caFree;
+}
+//---------------------------------------------------------------------------
